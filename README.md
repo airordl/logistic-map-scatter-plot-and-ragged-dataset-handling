@@ -33,9 +33,7 @@ RUN () {
 The logistic map is defined by:
 
 xₙ₊₁ = r * xₙ * (1 - xₙ)
-$$
-x_{n+1} = r \times x_n \times (1-x_n)
-$$
+$x_{n+1} = r \times x_n \times (1-x_n)$
 
 This system demonstrates fixed points, bifurcations, and chaotic behavior depending on the growth rate `r`.
 
